@@ -32,11 +32,12 @@ To rapidly translate product vision into a functional, high-quality MVP (focused
 - System scaling
 
 ## Tech Stack
-- Frontend: React, TypeScript
-- Backend: Python
-- Database: PostgreSQL
-- Cloud: AWS
-- Authentication: OAuth 2.0/JWT
+- Frontend: React, TypeScript (Next.js)
+- Backend: Next.js API Routes (Node.js + TypeScript)/ FastAPI(Python)
+- Database: PostgreSQL (hosted on AWS RDS)
+- Cloud: AWS (CDK/Terraform for provisioning, Lambda-ready)
+- Authentication: OAuth 2.0 / JWT (for secure client login)
+- AI Integration: Computer Vision API wrappers (e.g., via AWS Lambda or API Gateway)
 
 ## Success Metrics
 - Successful MVP deployment within 90 days

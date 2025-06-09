@@ -46,4 +46,5 @@ To rapidly translate product vision into a functional, high-quality MVP (focused
 - Efficient development cycles
 - Effective AI/ML model integration
 
-For detailed project plan, please refer to [DairySmart_Project_Plan_MVP_Solo.txt](DairySmart_Project_Plan_MVP_Solo.txt) 
+## Detailed Project Plan
+For a detailed project plan, please refer to [DairySmart_Project_Plan_MVP_Solo.md](https://github.com/xiongsi2000/DairySmart_MVP/tree/detailed-version). 
